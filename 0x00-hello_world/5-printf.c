@@ -1,1 +1,11 @@
-#!/bin/bash 6-size.c 4-puts.c 3-name 2-assembler 1-compiler 0-preprocessor
+#include < stdio.h
+/**
+ * main -A programme that prints a line using the printf function
+ * return: 0 (success)
+ */
+int main(void)
+{
+    printf("with proper grammar, but the outcome is a piece of art,\n")
+    return(0);
+
+}
